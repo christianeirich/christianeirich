@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @christianeirich
+- 🌱 I’m currently doing an apprenticeship to become a software developer
+- 📫 You can reach me at kontakt@christianeirich.de
